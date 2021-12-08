@@ -100,7 +100,7 @@
   border: none;
   border-radius: 0.4rem;
   box-shadow: 10px 10px 40px 1px hsl(179, 91%, 33%);
-  cursor: pointer;
+ 
 }
 
 .content-left .btn:hover{
